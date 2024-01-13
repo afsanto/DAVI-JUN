@@ -146,6 +146,16 @@
       width: 44%;
   }
 }
+@media (max-width: 767px) {
+  .premium {
+    font-size:18px;
+    
+  }
+ 
+}
+
+
+
 @media (max-width: 700px) {
   ul.timeline:before {
       left: 40px;
@@ -209,6 +219,8 @@ line-height: 24px;
 .be-content p{
 	margin-bottom:5px
 }
+
+
 
 .papai-text{
       text-align: center;

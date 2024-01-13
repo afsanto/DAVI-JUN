@@ -779,6 +779,7 @@ a:hover{
 }
 
 .hamenu {
+  margin-top:100px;
   position: fixed;
   top: 0;
   left: -100%;

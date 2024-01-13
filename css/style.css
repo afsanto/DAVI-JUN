@@ -149,7 +149,10 @@
 @media (max-width: 767px) {
   .premium {
     font-size:18px;
-    
+  }
+  .logodada{
+    width:165px;
+    height:108px;
   }
  
 }

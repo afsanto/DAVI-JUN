@@ -936,11 +936,11 @@ footer a {
 .topnav.scroll-bt.nav-scroll {
     top: inherit;
 }
-.nt-desktop #nt-logo.has-mobile-logo img.mobile-logo,
+/*.nt-desktop #nt-logo.has-mobile-logo img.mobile-logo,
 body[data-elementor-device-mode="desktop"] #nt-logo.has-mobile-logo img.mobile-logo{
     display: none;
 }
-.nt-mobile #nt-logo.has-mobile-logo img.main-logo,
+/*.nt-mobile #nt-logo.has-mobile-logo img.main-logo,
 body[data-elementor-device-mode="tablet"] #nt-logo.has-mobile-logo img.main-logo,
 body[data-elementor-device-mode="mobile"] #nt-logo.has-mobile-logo img.main-logo{
     display: none;
@@ -949,7 +949,7 @@ body[data-elementor-device-mode="mobile"] #nt-logo.has-mobile-logo img.main-logo
 body[data-elementor-device-mode="tablet"] #nt-logo.has-mobile-logo img.mobile-logo,
 body[data-elementor-device-mode="mobile"] #nt-logo.has-mobile-logo img.mobile-logo{
     display: block;
-}
+}*/
 .scroll-start .has-sticky-logo .main-logo,
 .has-sticky-logo .sticky-logo {
     display: none;
@@ -958,11 +958,11 @@ body[data-elementor-device-mode="mobile"] #nt-logo.has-mobile-logo img.mobile-lo
     display: block;
 }
 
-.nt-mobile.scroll-start #nt-logo.has-mobile-logo.has-sticky-logo img.mobile-logo,
+/*.nt-mobile.scroll-start #nt-logo.has-mobile-logo.has-sticky-logo img.mobile-logo,
 body.scroll-start[data-elementor-device-mode="tablet"] #nt-logo.has-mobile-logo.has-sticky-logo img.mobile-logo,
 body.scroll-start[data-elementor-device-mode="mobile"] #nt-logo.has-mobile-logo.has-sticky-logo img.mobile-logo{
     display: none;
-}
+}*/
 
 .call-action.prev {
     position: relative;
